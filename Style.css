@@ -63,3 +63,17 @@ img {
     height: 300px;
     margin: 10px;
 }
+
+.box7 {
+    border-style: groove;
+    padding: 20px;
+    display: flex;
+}
+
+.box7 img {
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+}
+
+
