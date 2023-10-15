@@ -6,8 +6,9 @@
 
 .box1 {
     border-style:groove;
-    display: flex;
     padding: 20px;
+    padding-left: 130px;
+    padding-right: 130px;
 }
 
 img {
@@ -17,7 +18,15 @@ img {
 
 .box2 {
     border-style: groove;
+    padding: 43px;
+}
+
+.box3 {
+    border-style: groove;
+    padding: 10px;
     display: flex;
-    justify-self: center;
-    padding: 20px;
+}
+
+.silnik {
+     margin: 10px;
 }
