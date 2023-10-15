@@ -6,9 +6,10 @@
 
 .box1 {
     border-style:groove;
-    padding: 20px;
+    padding: 110px;
     padding-left: 130px;
     padding-right: 130px;
+    align-self: center;
 }
 
 img {
@@ -18,15 +19,23 @@ img {
 
 .box2 {
     border-style: groove;
-    padding: 43px;
+    padding: 42px;
 }
 
 .box3 {
     border-style: groove;
-    padding: 10px;
+    padding: 20px;
+    padding-left: 85px;
+    padding-right: 85px;
     display: flex;
 }
 
 .silnik {
-     margin: 10px;
+     margin: 20px;
+}
+
+.box4 {
+    border-style: groove;
+    padding: 20px;
+    display: flex;   
 }
