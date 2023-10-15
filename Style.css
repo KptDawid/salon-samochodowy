@@ -24,7 +24,7 @@ img {
 
 .box3 {
     border-style: groove;
-    padding: 20px;
+    padding: 60px;
     padding-left: 85px;
     padding-right: 85px;
     display: flex;
@@ -38,4 +38,28 @@ img {
     border-style: groove;
     padding: 20px;
     display: flex;   
+}
+
+.box5 {
+    border-style: groove;
+    padding: 20px;
+    display: flex;
+}
+
+.box5 img {
+    width: 500px;
+    height: 300px;
+    margin: 10px;
+}
+
+.box6 {
+    border-style: groove;
+    padding: 20px;
+    display: flex;
+}
+
+.box6 img {
+    width: 500px;
+    height: 300px;
+    margin: 10px;
 }
