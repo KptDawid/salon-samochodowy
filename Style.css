@@ -1,5 +1,23 @@
-label {
-  display: flex;
-  justify-content: center;
+.kontener {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
+.box1 {
+    border-style:groove;
+    display: flex;
+    padding: 20px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+.box2 {
+    border-style: groove;
+    display: flex;
+    justify-self: center;
+    padding: 20px;
+}
